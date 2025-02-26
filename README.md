@@ -24,10 +24,10 @@ pip install -r requirements.txt
 
 ## 📦 Models Used
 
-| Model Name                     | Repository                                         | License                                                                                                    |
-| ------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Stable Diffusion XL Inpainting | `diffusers/stable-diffusion-xl-1.0-inpainting-0.1` | [CreativeML OpenRAIL++](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE) |
-| IP-Adapter                     | `h94/IP-Adapter`                                   | [Apache 2.0](https://huggingface.co/h94/IP-Adapter/blob/main/LICENSE)                                      |
+| Model Name                     | Repository                                         | License               |
+| ------------------------------ | -------------------------------------------------- | ----------------------|
+| Stable Diffusion XL Inpainting | `diffusers/stable-diffusion-xl-1.0-inpainting-0.1` | CreativeML OpenRAIL++ |
+| IP-Adapter                     | `h94/IP-Adapter`                                   | Apache 2.0            |
 
 
 
