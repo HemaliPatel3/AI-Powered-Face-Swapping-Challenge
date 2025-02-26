@@ -30,5 +30,8 @@ pip install -r requirements.txt
 | IP-Adapter                     | `h94/IP-Adapter`                                   | Apache 2.0            |
 
 
+## 📷 Output Example
+
+Watch the output demonstration video here: [Output Video](https://drive.google.com/file/d/1K_1GeEzirT5vWVgKrGT2XZpqDunt8ptF/view?usp=sharing). 
 
 
