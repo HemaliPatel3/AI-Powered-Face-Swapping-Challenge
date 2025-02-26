@@ -1,1 +1,1 @@
-# AI-Powered-Face-Swapping-Challenge
+# AI Powered Face Swapping Challenge
