@@ -5,14 +5,14 @@ This project performs face swapping using AI/ML techniques with Stable Diffusion
 
 1. Clone the Repository:
 
-```bash
+```python
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
 2. Install Dependencies:
 
-```bash 
+```python 
 pip install -r requirements.txt
 ```
 
